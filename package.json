@@ -12,8 +12,12 @@
   "dependencies": {
     "next": "15.2.1",
     "react": "^19.0.0",
+<<<<<<< HEAD
     "react-dom": "^19.0.0",
     "react-router": "^7.3.0"
+=======
+    "react-dom": "^19.0.0"
+>>>>>>> 2f25195f67763c44072c2b5e7dc074328056149c
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -23,7 +27,10 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.2.1",
+<<<<<<< HEAD
     "react-router-dom": "^7.3.0",
+=======
+>>>>>>> 2f25195f67763c44072c2b5e7dc074328056149c
     "tailwindcss": "^4",
     "typescript": "^5"
   }
