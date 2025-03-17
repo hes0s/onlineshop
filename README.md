@@ -1,5 +1,35 @@
-# Vue 3 + Vite
+# Onlineshop
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a online electronics shop where we will have such functionality such as: 
+- Registration/login
+- Admin panel
+- A functional DB
+- A dashboard for the sales and stocks
+- Categorization of the products and filtering them in the search
+- maybe other
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+To-Do: 
+- Creating a basic design for the website
+- Creating the HomePage
+- Creating the Registration/LogIn page
+- Creating a backend
+- Creating a DB
+- Creating Admin page
+
+---
+### How to run this project 
+
+- Install all dependencies: 
+``` 
+npm install
+```
+
+- Run the project
+```
+npm run dev
+```
+
+- Build the project
+```
+npm run build
+```
